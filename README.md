@@ -27,6 +27,6 @@ I'm always excited to connect with fellow developers, mentors, and open-source e
 
 ## 📚 More About Me
 
-When I'm not coding, you can find me watching/playing cricket. I'm on a journey to transform my passion for technology into practical solutions and real-world impact.
+I'm on a journey to transform my passion for technology into practical solutions and real-world impact.
 
 Thank you for visiting my GitHub profile. I'm looking forward to sharing my coding journey with you as I learn and grow in the field of software engineering. Let's code and create a better future together!
